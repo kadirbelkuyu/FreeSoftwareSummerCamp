@@ -1,0 +1,3 @@
+Eğer daha önce Python programlama dili ile ilgili araştırma yaptıysanız, şu anda piyasada iki farklı Python serisinin olduğu dikkatinizi çekmiş olmalı. 04.05.2018 tarihi itibariyle piyasada olan en yeni Python sürümleri Python 2.7.11 ve Python 3.5.1‘dir.
+
+Eğer bir Python sürümü 2 sayısı ile başlıyorsa (mesela 2.7.11), o sürüm Python 2.x serisine aittir. Yok eğer bir Python sürümü 3 sayısı ile başlıyorsa (mesela 3.5.1), o sürüm Python 3.x serisine aittir.
